@@ -1,2 +1,4 @@
 # raspi-sensors-dash
-Project for web dashboard for Raspberry Pi sensors
+Web dashboard for Raspberry Pi sensors.
+
+This is a personal project to learn how to obtain data from sensors, store them, and then retrieve to build dashboards. 
